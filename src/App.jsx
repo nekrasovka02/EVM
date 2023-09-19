@@ -13,7 +13,7 @@ const App = () => {
   //return <Product/>;  
  // return <Register/>;  
  // return <Login/>;  
-  //return <Cart/>;   
+  return <Cart/>;   
 };
 export default App;
 
